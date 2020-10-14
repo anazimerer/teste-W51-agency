@@ -1,4 +1,4 @@
-<h1 align="center"> Teste A </h1>
+<h1 align="center"> Teste W51 Agency </h1>
 <p><b>Status: </b>concluído </p>
 
 <a href="http://wise-bulb.surge.sh/"> Deploy </a> :gift_heart:
@@ -9,6 +9,13 @@
 <li> CSS</p>
 <li> Javascript</p>
 <li> Styled-components</p>
+
+<h3>Conceitos aplicados </h3>
+<li> CSS Flexbox </p>
+<li> CSS: margin, posicionamento, coloração, estilização</p>
+<li> Tags HTML</p>
+<li> Estrutura de componentes</p>
+<li> Função de callback: Map</p>
 
 <h3>Como rodar a aplicação: </h3>
 <p>No terminal: </p>
