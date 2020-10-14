@@ -1,18 +1,18 @@
 import React from 'react'
 import logo from '../../assets/logo.png'
+import { HeaderContainer, HeaderLinks } from './style'
+
 
 export default function Header() {
     return (
-        <div>
-            <div>
-                <img src={logo} alt="logo" />
-            </div>
-            <div>
+        <HeaderContainer>
+            <img src={logo} alt="logo" />
+            <HeaderLinks>
                 <p>Men</p>
                 <p>Woman</p>
-                <p>kids</p>
+                <p>Kids</p>
                 <input />
-            </div>
-        </div>
+            </HeaderLinks>
+        </HeaderContainer>
     )
 }
